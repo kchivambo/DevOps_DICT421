@@ -1,0 +1,7 @@
+public classs Chivambo220732191{
+ public static void main (string{} args) {
+int a = 5, b =10;
+int sum = a + b;
+System.out.println("sum: " + sum);
+}
+}
